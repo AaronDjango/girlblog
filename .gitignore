@@ -1,7 +1,7 @@
 *.pyc
 *~
 __pycache__
-specvenev
+specvenv
 db.sqlite3
 /static
 .DS_Store
